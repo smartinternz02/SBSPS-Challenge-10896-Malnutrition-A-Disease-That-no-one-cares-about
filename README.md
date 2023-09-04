@@ -22,3 +22,5 @@ Journey to Cloud: Envisioning Your Solution
 
 Getting Started with Enterprise Data Science
 ([document 1.pdf](https://github.com/Deebika16/Malnutrition/files/12503797/document.1.pdf))
+([sonaly1.pdf](https://github.com/smartinternz02/SBSPS-Challenge-10896-Malnutrition-A-Disease-That-no-one-cares-about/files/12509801/sonaly1.pdf))
+
